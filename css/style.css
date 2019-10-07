@@ -1,0 +1,24 @@
+
+.travel_container {
+    background-image: url(./image/sky.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+.nav-link{
+    color: white;
+}
+
+.main.inner{
+    margin: 0 auto;
+}
+
+.btn-lg btn-secondary{
+
+}
+
+.lead{
+    width:700px;
+}
